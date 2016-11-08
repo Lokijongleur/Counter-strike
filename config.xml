@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "de.bshassfurt.bft2015.CounterStrike"
+    versionCode = "1"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>CounterStrike</name>
+
+  <description>
+      Diese Anwendung zählt, wie oft der Button gedrückt ("strike") wurde.
+  </description>
+
+  <author href="http://bs-hassfurt.de/" email="reichl.f@bs-hassfurt.de">
+      BFT12
+  </author>
+
+</widget>
